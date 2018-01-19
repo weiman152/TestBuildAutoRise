@@ -16,9 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //哈哈哈哈哈
     NSString * buildNum = [[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleVersion"];
     NSLog(@"现在版本号   %@",buildNum);
+    
 }
 
 
